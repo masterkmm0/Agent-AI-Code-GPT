@@ -1,0 +1,7 @@
+{
+  "name": "Agent AI Code GPT",
+  "description": "Autonomous AI coding agent, code generator, and workspace powered by Gemini with multi-file project editing, live previews, terminal simulation, and code analysis.",
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
