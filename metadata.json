@@ -1,7 +1,6 @@
 {
-  "name": "Agent AI Code GPT",
-  "description": "Autonomous AI coding agent, code generator, and workspace powered by Gemini with multi-file project editing, live previews, terminal simulation, and code analysis.",
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
+  "name": "Antigravity",
+  "description": "A fast-paced 3D WebGL sci-fi survival game powered by Three.js. Pilot a neon interceptor through warping gravity wells and manage your antigravity shield.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
